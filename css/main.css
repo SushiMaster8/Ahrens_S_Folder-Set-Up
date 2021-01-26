@@ -1,0 +1,11 @@
+.hidden
+{
+	display: none;
+}
+
+h2
+{
+	font-size: 28px;
+	color: red;
+	font-weight: bold;
+}
